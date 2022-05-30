@@ -4,9 +4,10 @@ Using the Yugioh API, one can find a card. Get its stats and effect, While at th
 
 ## How It's Made:
 
-**Tech used:**  JavaScript
+**Tech used:**  JavaScript, CSS, HTML
 
-Assigning values to every card a winner is determined per round depending on which card has a higher value. If a draw. War is declared and the game continues as cards are dropped and a new card is selected to play again. The same deck is used per match, therefore simulating the real life game.
+Using the yugioh card Api the application with the push of a button can look up a card. The cards stats and prices across ebay, tcgplayer and the general market price. It gets an image as well.
+
 ## Optimizations
 
 Track the same card accross multiple sets and rarities. 
