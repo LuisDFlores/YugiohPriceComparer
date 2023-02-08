@@ -11,6 +11,7 @@ Using the yugioh card Api the application with the push of a button can look up 
 ## Optimizations
 
 Track the same card accross multiple sets and rarities. 
+Styling
 
 ## Lessons Learned:
 
